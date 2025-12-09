@@ -1,5 +1,3 @@
-package year2024
-
 fun main() {
     parte1()
     parte2()

@@ -1,6 +1,3 @@
-package year2024
-
-
 import kotlin.math.abs
 var distanceList = emptyList<Int>()
 var historiansList: List<Int> = emptyList()
